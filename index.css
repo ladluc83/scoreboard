@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background: #F24C04;
+}
+
+h3 {
+    color: #466365;
+    text-align: center;
+    font-size: 40px;
+    
+    
+}
+
+h2 {
+    font-size: 80px;
+    text-align: center;
+    
+}
+
+.score {
+    background: #04030F;
+    color: #A41623;
+    margin: 0 auto;
+    border-radius: 4px;
+    
+    
+}
+
+button {
+    background: #F24C04;
+    color: #466365;
+    font-size: 24px;
+    border-radius: 4px;
+    border: 1px solid #466365;
+}
+
+.btnArea {
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    
+}
+
+#newGame {
+    width: 20%;
+    margin: 15px -50% 0 40%;
+  }
+  
+  .winning {
+    border-bottom: 5px solid white;
+  }
